@@ -16,5 +16,5 @@ which is used to the hidden layers to show the data in the gradients of the data
 
 back propogation and optimisation :
 
-in this propogation step we use some of the examples - mse(mean squared error),cross entropy stop: which optimises the dta.
+in this propogation step we use some of the examples - mse(mean squared error),cross entropy stop: which optimises the data.
 
